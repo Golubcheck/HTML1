@@ -1,0 +1,66 @@
+img	
+{
+	width: 150px;
+	margin-bottom: 20px;
+}
+
+h1
+{
+	color: red;
+}
+header p:first-of-type
+{
+	color: white;
+	background-color: blue;
+	width: 130px;
+	margin-bottom: 150px;
+}
+
+header p:first-of-type
+{
+	color: white;
+	background-color: blue;
+	width: 130px;
+	margin-bottom: 150px;
+}
+
+h2
+{
+	color: white;
+	background-color: green;
+	padding: 10px 5px;
+
+}
+
+input, button
+{
+	border-radius: 0px;
+	border: 1px solid lightgray;
+}
+
+li
+{
+	border: 1px solid black;
+	font-size: 17pt;
+}
+
+span
+{
+	color: red;
+}
+
+
+#section2 h2
+{
+	padding: 50px;
+}
+
+#section2 p:first-of-type
+{
+	margin-left: 100px;
+}
+
+#p1
+{
+	font-size: 9pt;
+}
